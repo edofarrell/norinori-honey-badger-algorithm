@@ -1,0 +1,30 @@
+Puzzle: <Ukuran> <Tingkat kesulitan>
+Amount: <Jumlah>
+Result details: <Path penyimpanan file spreadsheet>
+Maximum Fitness: <Nilai maksimum dari fitness>
+
+-----Parameters-----
+<Nama parameter> = <Nilai>
+<Nama parameter> = <Nilai>
+<Nama parameter> = <Nilai>
+
+-----Results-----
+Fitness:
+	Minimal = <Nilai minimal fitness>
+	Maximal = <Nilai maksimal fitness>
+	Average = <Rata-rata fitness>
+	Standard Deviation = <Standar deviasi fitness>
+Runtime:
+	Average = <Rata-rata waktu>
+	Total = <Total waktu>
+Optimal = <Jumlah puzzle optimal>/<Jumlah total puzzle> (<Persentase puzzle optimal>%)
+Optimal by Preprocessing = <Jumlah puzzle yang optimal hanya dengan preprocessing>/<Jumlah total puzzle> (<Persentase puzzle yang optimal hanya dengan preprocessing>%)
+Average Preprocessing = <Persentase rata-rata preprocessing>%
+
+-----Details-----
+1. ID = <Nomor identifikasi>, Fitness = <Fitness>(Iteration: <Iterasi>), Runtime = <Waktu>, Preprocessed = <Jumlah sel hasil preprocessing>/<Jumlah total sel> (<Persentase sel hasil preprocessing>%)
+.
+.
+.
+
+Seed = <Seed>

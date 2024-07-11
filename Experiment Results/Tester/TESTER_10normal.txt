@@ -1,0 +1,661 @@
+Puzzle: 10 normal
+Amount: 500
+Result details: ./Result/TESTER_10normal.csv
+Maximum Fitness: 4949.0
+
+-----Parameters-----
+Objective Function Weight = [0.5, 0.5, 0, 0, 0]
+C = 6
+beta = 2
+N = 50
+D = 100
+lb = 0
+ub = 1
+t_max = 1000
+reward = [-1, 1]
+alpha = 0.1
+gamma = 0.6
+eps = 0.6
+chi = 0.2
+
+-----Results-----
+Fitness:
+	Minimal = 0.0
+	Maximal = 2.0
+	Average = 0.004
+	Standard Deviation = 0.08935323161475474
+Runtime:
+	Average = 0.16676842832565308
+	Total = 83.38421416282654
+Optimal = 499/500 (99.8%)
+Optimal by Preprocessing = 496/500 (99.2%)
+Average Preprocessing = 99.858%
+
+-----Details-----
+1.   ID = 1,015,070 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.169914 , Preprocessed = 100/100 (100.00%)
+2.   ID = 1,023,634 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.116257 , Preprocessed = 100/100 (100.00%)
+3.   ID = 1,037,569 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.082967 , Preprocessed = 100/100 (100.00%)
+4.   ID = 1,068,380 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075001 , Preprocessed = 100/100 (100.00%)
+5.   ID = 1,069,118 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.087551 , Preprocessed = 100/100 (100.00%)
+6.   ID = 1,072,350 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.081861 , Preprocessed = 100/100 (100.00%)
+7.   ID = 1,086,435 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.068867 , Preprocessed = 100/100 (100.00%)
+8.   ID = 1,099,574 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076383 , Preprocessed = 100/100 (100.00%)
+9.   ID = 1,113,039 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.128178 , Preprocessed = 100/100 (100.00%)
+10.  ID = 1,131,721 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.080319 , Preprocessed = 100/100 (100.00%)
+11.  ID = 1,132,797 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.085485 , Preprocessed = 100/100 (100.00%)
+12.  ID = 1,146,550 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.178806 , Preprocessed = 100/100 (100.00%)
+13.  ID = 1,181,790 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.097776 , Preprocessed = 100/100 (100.00%)
+14.  ID = 1,186,402 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.093886 , Preprocessed = 100/100 (100.00%)
+15.  ID = 1,213,178 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075748 , Preprocessed = 100/100 (100.00%)
+16.  ID = 1,299,782 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.080613 , Preprocessed = 100/100 (100.00%)
+17.  ID = 1,302,295 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.068181 , Preprocessed = 100/100 (100.00%)
+18.  ID = 1,357,982 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070815 , Preprocessed = 100/100 (100.00%)
+19.  ID = 1,369,239 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.065207 , Preprocessed = 100/100 (100.00%)
+20.  ID = 1,394,826 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.063828 , Preprocessed = 100/100 (100.00%)
+21.  ID = 1,427,708 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077680 , Preprocessed = 100/100 (100.00%)
+22.  ID = 1,448,905 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075639 , Preprocessed = 100/100 (100.00%)
+23.  ID = 1,455,193 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073071 , Preprocessed = 100/100 (100.00%)
+24.  ID = 1,493,249 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077798 , Preprocessed = 100/100 (100.00%)
+25.  ID = 1,518,107 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077727 , Preprocessed = 100/100 (100.00%)
+26.  ID = 1,562,382 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075224 , Preprocessed = 100/100 (100.00%)
+27.  ID = 1,567,397 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071026 , Preprocessed = 100/100 (100.00%)
+28.  ID = 1,572,068 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077462 , Preprocessed = 100/100 (100.00%)
+29.  ID = 1,617,156 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078312 , Preprocessed = 100/100 (100.00%)
+30.  ID = 1,623,762 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074507 , Preprocessed = 100/100 (100.00%)
+31.  ID = 1,665,834 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079432 , Preprocessed = 100/100 (100.00%)
+32.  ID = 1,679,128 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070589 , Preprocessed = 100/100 (100.00%)
+33.  ID = 1,706,715 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075033 , Preprocessed = 100/100 (100.00%)
+34.  ID = 1,719,959 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075398 , Preprocessed = 100/100 (100.00%)
+35.  ID = 1,738,783 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072220 , Preprocessed = 100/100 (100.00%)
+36.  ID = 1,753,652 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.064837 , Preprocessed = 100/100 (100.00%)
+37.  ID = 1,784,444 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.062519 , Preprocessed = 100/100 (100.00%)
+38.  ID = 1,787,648 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070667 , Preprocessed = 100/100 (100.00%)
+39.  ID = 1,796,252 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074796 , Preprocessed = 100/100 (100.00%)
+40.  ID = 1,805,877 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.088851 , Preprocessed = 100/100 (100.00%)
+41.  ID = 1,821,011 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076329 , Preprocessed = 100/100 (100.00%)
+42.  ID = 1,825,963 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077436 , Preprocessed = 100/100 (100.00%)
+43.  ID = 1,833,267 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076442 , Preprocessed = 100/100 (100.00%)
+44.  ID = 1,855,244 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072431 , Preprocessed = 100/100 (100.00%)
+45.  ID = 1,864,739 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067636 , Preprocessed = 100/100 (100.00%)
+46.  ID = 1,894,035 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070384 , Preprocessed = 100/100 (100.00%)
+47.  ID = 1,911,165 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.084547 , Preprocessed = 100/100 (100.00%)
+48.  ID = 1,920,721 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075461 , Preprocessed = 100/100 (100.00%)
+49.  ID = 1,922,626 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077766 , Preprocessed = 100/100 (100.00%)
+50.  ID = 1,924,650 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.087407 , Preprocessed = 100/100 (100.00%)
+51.  ID = 1,926,140 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079967 , Preprocessed = 100/100 (100.00%)
+52.  ID = 1,937,448 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071884 , Preprocessed = 100/100 (100.00%)
+53.  ID = 1,993,097 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076722 , Preprocessed = 100/100 (100.00%)
+54.  ID = 10,033,198, Fitness = 0.000000       (Iteration:    1), Runtime = 0.066835 , Preprocessed = 100/100 (100.00%)
+55.  ID = 10,313,326, Fitness = 0.000000       (Iteration:    1), Runtime = 0.076276 , Preprocessed = 100/100 (100.00%)
+56.  ID = 10,339,372, Fitness = 0.000000       (Iteration:    1), Runtime = 0.075101 , Preprocessed = 100/100 (100.00%)
+57.  ID = 10,344,387, Fitness = 0.000000       (Iteration:    1), Runtime = 0.072988 , Preprocessed = 100/100 (100.00%)
+58.  ID = 10,363,429, Fitness = 0.000000       (Iteration:    1), Runtime = 0.079160 , Preprocessed = 100/100 (100.00%)
+59.  ID = 10,378,407, Fitness = 0.000000       (Iteration:    1), Runtime = 0.098646 , Preprocessed = 100/100 (100.00%)
+60.  ID = 10,394,335, Fitness = 0.000000       (Iteration:    1), Runtime = 0.077804 , Preprocessed = 100/100 (100.00%)
+61.  ID = 10,526,628, Fitness = 0.000000       (Iteration:    1), Runtime = 0.077823 , Preprocessed = 100/100 (100.00%)
+62.  ID = 10,609,689, Fitness = 0.000000       (Iteration:    1), Runtime = 0.088928 , Preprocessed = 100/100 (100.00%)
+63.  ID = 10,622,678, Fitness = 0.000000       (Iteration:    1), Runtime = 0.089581 , Preprocessed = 100/100 (100.00%)
+64.  ID = 10,641,615, Fitness = 0.000000       (Iteration:    1), Runtime = 0.070510 , Preprocessed = 100/100 (100.00%)
+65.  ID = 10,750,741, Fitness = 0.000000       (Iteration:    1), Runtime = 0.088490 , Preprocessed = 100/100 (100.00%)
+66.  ID = 10,810,806, Fitness = 0.000000       (Iteration:    1), Runtime = 0.096851 , Preprocessed = 100/100 (100.00%)
+67.  ID = 10,833,774, Fitness = 0.000000       (Iteration:    1), Runtime = 0.077508 , Preprocessed = 100/100 (100.00%)
+68.  ID = 10,970,884, Fitness = 0.000000       (Iteration:    1), Runtime = 0.076330 , Preprocessed = 100/100 (100.00%)
+69.  ID = 10,999,890, Fitness = 0.000000       (Iteration:    1), Runtime = 0.078059 , Preprocessed = 100/100 (100.00%)
+70.  ID = 101,800   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077695 , Preprocessed = 100/100 (100.00%)
+71.  ID = 175,061   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071373 , Preprocessed = 100/100 (100.00%)
+72.  ID = 2,026,367 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.082668 , Preprocessed = 100/100 (100.00%)
+73.  ID = 2,027,325 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077357 , Preprocessed = 100/100 (100.00%)
+74.  ID = 2,059,511 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077450 , Preprocessed = 100/100 (100.00%)
+75.  ID = 2,066,431 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071142 , Preprocessed = 100/100 (100.00%)
+76.  ID = 2,069,738 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.069037 , Preprocessed = 100/100 (100.00%)
+77.  ID = 2,071,193 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.088380 , Preprocessed = 100/100 (100.00%)
+78.  ID = 2,074,626 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073198 , Preprocessed = 100/100 (100.00%)
+79.  ID = 2,091,896 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.087763 , Preprocessed = 100/100 (100.00%)
+80.  ID = 2,092,744 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.088175 , Preprocessed = 100/100 (100.00%)
+81.  ID = 2,110,679 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075969 , Preprocessed = 100/100 (100.00%)
+82.  ID = 2,136,043 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071527 , Preprocessed = 100/100 (100.00%)
+83.  ID = 2,139,118 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.089871 , Preprocessed = 100/100 (100.00%)
+84.  ID = 2,140,713 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.096768 , Preprocessed = 100/100 (100.00%)
+85.  ID = 2,154,126 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.089456 , Preprocessed = 100/100 (100.00%)
+86.  ID = 2,177,447 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.088960 , Preprocessed = 100/100 (100.00%)
+87.  ID = 2,211,395 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.087291 , Preprocessed = 100/100 (100.00%)
+88.  ID = 2,254,262 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.090909 , Preprocessed = 100/100 (100.00%)
+89.  ID = 2,261,898 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078279 , Preprocessed = 100/100 (100.00%)
+90.  ID = 2,268,924 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077457 , Preprocessed = 100/100 (100.00%)
+91.  ID = 2,270,314 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.086866 , Preprocessed = 100/100 (100.00%)
+92.  ID = 2,284,997 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.087696 , Preprocessed = 100/100 (100.00%)
+93.  ID = 2,302,507 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.082746 , Preprocessed = 100/100 (100.00%)
+94.  ID = 2,347,447 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079962 , Preprocessed = 100/100 (100.00%)
+95.  ID = 2,431,982 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.089238 , Preprocessed = 100/100 (100.00%)
+96.  ID = 2,439,037 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.087813 , Preprocessed = 100/100 (100.00%)
+97.  ID = 2,463,292 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078497 , Preprocessed = 100/100 (100.00%)
+98.  ID = 2,472,188 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076627 , Preprocessed = 100/100 (100.00%)
+99.  ID = 2,503,265 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.083633 , Preprocessed = 100/100 (100.00%)
+100. ID = 2,554,787 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.080634 , Preprocessed = 100/100 (100.00%)
+101. ID = 2,594,635 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072604 , Preprocessed = 100/100 (100.00%)
+102. ID = 2,600,577 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.080873 , Preprocessed = 100/100 (100.00%)
+103. ID = 2,615,111 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076869 , Preprocessed = 100/100 (100.00%)
+104. ID = 2,641,969 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071706 , Preprocessed = 100/100 (100.00%)
+105. ID = 2,678,094 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.096783 , Preprocessed = 100/100 (100.00%)
+106. ID = 2,731,636 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074166 , Preprocessed = 100/100 (100.00%)
+107. ID = 2,759,426 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070537 , Preprocessed = 100/100 (100.00%)
+108. ID = 2,760,569 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075165 , Preprocessed = 100/100 (100.00%)
+109. ID = 2,800,470 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078384 , Preprocessed = 100/100 (100.00%)
+110. ID = 2,820,403 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073786 , Preprocessed = 100/100 (100.00%)
+111. ID = 2,823,008 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071383 , Preprocessed = 100/100 (100.00%)
+112. ID = 2,895,064 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072426 , Preprocessed = 100/100 (100.00%)
+113. ID = 2,917,360 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077590 , Preprocessed = 100/100 (100.00%)
+114. ID = 2,940,677 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071234 , Preprocessed = 100/100 (100.00%)
+115. ID = 2,945,326 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072262 , Preprocessed = 100/100 (100.00%)
+116. ID = 2,995,804 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.069648 , Preprocessed = 100/100 (100.00%)
+117. ID = 200,320   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077016 , Preprocessed = 100/100 (100.00%)
+118. ID = 216,092   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072516 , Preprocessed = 100/100 (100.00%)
+119. ID = 224,745   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070354 , Preprocessed = 100/100 (100.00%)
+120. ID = 251,399   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079393 , Preprocessed = 100/100 (100.00%)
+121. ID = 260,831   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076002 , Preprocessed = 100/100 (100.00%)
+122. ID = 265,826   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071689 , Preprocessed = 100/100 (100.00%)
+123. ID = 270,866   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074498 , Preprocessed = 100/100 (100.00%)
+124. ID = 288,677   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074203 , Preprocessed = 100/100 (100.00%)
+125. ID = 3,078,577 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078254 , Preprocessed = 100/100 (100.00%)
+126. ID = 3,094,772 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072456 , Preprocessed = 100/100 (100.00%)
+127. ID = 3,133,272 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.082664 , Preprocessed = 100/100 (100.00%)
+128. ID = 3,163,992 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074287 , Preprocessed = 100/100 (100.00%)
+129. ID = 3,178,502 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073590 , Preprocessed = 100/100 (100.00%)
+130. ID = 3,180,294 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070643 , Preprocessed = 100/100 (100.00%)
+131. ID = 3,191,597 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077023 , Preprocessed = 100/100 (100.00%)
+132. ID = 3,195,929 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072259 , Preprocessed = 100/100 (100.00%)
+133. ID = 3,208,841 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073926 , Preprocessed = 100/100 (100.00%)
+134. ID = 3,226,535 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.083846 , Preprocessed = 100/100 (100.00%)
+135. ID = 3,248,584 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.131938 , Preprocessed = 100/100 (100.00%)
+136. ID = 3,248,825 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.086868 , Preprocessed = 100/100 (100.00%)
+137. ID = 3,271,561 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076153 , Preprocessed = 100/100 (100.00%)
+138. ID = 3,290,393 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078716 , Preprocessed = 100/100 (100.00%)
+139. ID = 3,300,918 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.089249 , Preprocessed = 100/100 (100.00%)
+140. ID = 3,321,746 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076648 , Preprocessed = 100/100 (100.00%)
+141. ID = 3,337,986 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071439 , Preprocessed = 100/100 (100.00%)
+142. ID = 3,341,468 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076156 , Preprocessed = 100/100 (100.00%)
+143. ID = 3,367,716 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067817 , Preprocessed = 100/100 (100.00%)
+144. ID = 3,411,446 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067853 , Preprocessed = 100/100 (100.00%)
+145. ID = 3,477,748 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071469 , Preprocessed = 100/100 (100.00%)
+146. ID = 3,484,915 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072074 , Preprocessed = 100/100 (100.00%)
+147. ID = 3,514,754 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067376 , Preprocessed = 100/100 (100.00%)
+148. ID = 3,566,627 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074225 , Preprocessed = 100/100 (100.00%)
+149. ID = 3,590,810 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077069 , Preprocessed = 100/100 (100.00%)
+150. ID = 3,616,127 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072927 , Preprocessed = 100/100 (100.00%)
+151. ID = 3,625,882 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076832 , Preprocessed = 100/100 (100.00%)
+152. ID = 3,627,658 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.086463 , Preprocessed = 100/100 (100.00%)
+153. ID = 3,638,440 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.083618 , Preprocessed = 100/100 (100.00%)
+154. ID = 3,643,062 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077716 , Preprocessed = 100/100 (100.00%)
+155. ID = 3,644,718 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071101 , Preprocessed = 100/100 (100.00%)
+156. ID = 3,669,893 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.083917 , Preprocessed = 100/100 (100.00%)
+157. ID = 3,672,462 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.088681 , Preprocessed = 100/100 (100.00%)
+158. ID = 3,675,258 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.085132 , Preprocessed = 100/100 (100.00%)
+159. ID = 3,789,134 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075275 , Preprocessed = 100/100 (100.00%)
+160. ID = 3,790,330 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073307 , Preprocessed = 100/100 (100.00%)
+161. ID = 3,869,556 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.068950 , Preprocessed = 100/100 (100.00%)
+162. ID = 3,900,543 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075791 , Preprocessed = 100/100 (100.00%)
+163. ID = 3,909,263 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074407 , Preprocessed = 100/100 (100.00%)
+164. ID = 3,929,450 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072701 , Preprocessed = 100/100 (100.00%)
+165. ID = 3,932,585 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078995 , Preprocessed = 100/100 (100.00%)
+166. ID = 3,986,214 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070038 , Preprocessed = 100/100 (100.00%)
+167. ID = 3,991,371 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071750 , Preprocessed = 100/100 (100.00%)
+168. ID = 327,900   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072715 , Preprocessed = 100/100 (100.00%)
+169. ID = 354,333   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070432 , Preprocessed = 100/100 (100.00%)
+170. ID = 355,820   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073575 , Preprocessed = 100/100 (100.00%)
+171. ID = 360,410   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072950 , Preprocessed = 100/100 (100.00%)
+172. ID = 385,988   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071285 , Preprocessed = 100/100 (100.00%)
+173. ID = 398,792   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074223 , Preprocessed = 100/100 (100.00%)
+174. ID = 4,001,167 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.083091 , Preprocessed = 100/100 (100.00%)
+175. ID = 4,002,296 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071190 , Preprocessed = 100/100 (100.00%)
+176. ID = 4,008,944 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072430 , Preprocessed = 100/100 (100.00%)
+177. ID = 4,016,451 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074100 , Preprocessed = 100/100 (100.00%)
+178. ID = 4,047,695 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071364 , Preprocessed = 100/100 (100.00%)
+179. ID = 4,049,282 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.068059 , Preprocessed = 100/100 (100.00%)
+180. ID = 4,054,422 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072820 , Preprocessed = 100/100 (100.00%)
+181. ID = 4,063,661 , Fitness = 0.000000       (Iteration:   17), Runtime = 0.641605 , Preprocessed = 88 /100 ( 88.00%)
+182. ID = 4,077,555 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071802 , Preprocessed = 100/100 (100.00%)
+183. ID = 4,108,248 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076756 , Preprocessed = 100/100 (100.00%)
+184. ID = 4,134,261 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079339 , Preprocessed = 100/100 (100.00%)
+185. ID = 4,152,257 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074059 , Preprocessed = 100/100 (100.00%)
+186. ID = 4,182,236 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.057103 , Preprocessed = 100/100 (100.00%)
+187. ID = 4,215,710 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.062921 , Preprocessed = 100/100 (100.00%)
+188. ID = 4,229,020 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074719 , Preprocessed = 100/100 (100.00%)
+189. ID = 4,269,854 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067564 , Preprocessed = 100/100 (100.00%)
+190. ID = 4,293,306 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074735 , Preprocessed = 100/100 (100.00%)
+191. ID = 4,295,709 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.061577 , Preprocessed = 100/100 (100.00%)
+192. ID = 4,309,078 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078125 , Preprocessed = 100/100 (100.00%)
+193. ID = 4,328,575 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076302 , Preprocessed = 100/100 (100.00%)
+194. ID = 4,352,852 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071064 , Preprocessed = 100/100 (100.00%)
+195. ID = 4,359,042 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.066264 , Preprocessed = 100/100 (100.00%)
+196. ID = 4,378,355 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075531 , Preprocessed = 100/100 (100.00%)
+197. ID = 4,390,599 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071671 , Preprocessed = 100/100 (100.00%)
+198. ID = 4,404,489 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.064064 , Preprocessed = 100/100 (100.00%)
+199. ID = 4,415,870 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078558 , Preprocessed = 100/100 (100.00%)
+200. ID = 4,420,493 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067122 , Preprocessed = 100/100 (100.00%)
+201. ID = 4,423,317 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075531 , Preprocessed = 100/100 (100.00%)
+202. ID = 4,433,788 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.081118 , Preprocessed = 100/100 (100.00%)
+203. ID = 4,495,854 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078350 , Preprocessed = 100/100 (100.00%)
+204. ID = 4,509,054 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.065175 , Preprocessed = 100/100 (100.00%)
+205. ID = 4,511,792 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078546 , Preprocessed = 100/100 (100.00%)
+206. ID = 4,512,357 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.069499 , Preprocessed = 100/100 (100.00%)
+207. ID = 4,552,654 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.069538 , Preprocessed = 100/100 (100.00%)
+208. ID = 4,585,686 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078556 , Preprocessed = 100/100 (100.00%)
+209. ID = 4,586,624 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.068110 , Preprocessed = 100/100 (100.00%)
+210. ID = 4,618,029 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.068134 , Preprocessed = 100/100 (100.00%)
+211. ID = 4,640,896 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077319 , Preprocessed = 100/100 (100.00%)
+212. ID = 4,644,735 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.089913 , Preprocessed = 100/100 (100.00%)
+213. ID = 4,648,657 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074350 , Preprocessed = 100/100 (100.00%)
+214. ID = 4,666,685 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078556 , Preprocessed = 100/100 (100.00%)
+215. ID = 4,701,049 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.091798 , Preprocessed = 100/100 (100.00%)
+216. ID = 4,705,028 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067371 , Preprocessed = 100/100 (100.00%)
+217. ID = 4,713,103 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073718 , Preprocessed = 100/100 (100.00%)
+218. ID = 4,833,255 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.088850 , Preprocessed = 100/100 (100.00%)
+219. ID = 4,913,773 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.064040 , Preprocessed = 100/100 (100.00%)
+220. ID = 4,963,310 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.056379 , Preprocessed = 100/100 (100.00%)
+221. ID = 44,558    , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079130 , Preprocessed = 100/100 (100.00%)
+222. ID = 459,144   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074234 , Preprocessed = 100/100 (100.00%)
+223. ID = 467,912   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067557 , Preprocessed = 100/100 (100.00%)
+224. ID = 485,849   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079839 , Preprocessed = 100/100 (100.00%)
+225. ID = 5,046,183 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079871 , Preprocessed = 100/100 (100.00%)
+226. ID = 5,046,393 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.062437 , Preprocessed = 100/100 (100.00%)
+227. ID = 5,055,866 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.081742 , Preprocessed = 100/100 (100.00%)
+228. ID = 5,092,816 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078191 , Preprocessed = 100/100 (100.00%)
+229. ID = 5,101,194 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077483 , Preprocessed = 100/100 (100.00%)
+230. ID = 5,111,215 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073222 , Preprocessed = 100/100 (100.00%)
+231. ID = 5,119,133 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073672 , Preprocessed = 100/100 (100.00%)
+232. ID = 5,141,841 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073336 , Preprocessed = 100/100 (100.00%)
+233. ID = 5,142,761 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077844 , Preprocessed = 100/100 (100.00%)
+234. ID = 5,156,402 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.080609 , Preprocessed = 100/100 (100.00%)
+235. ID = 5,172,286 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.066884 , Preprocessed = 100/100 (100.00%)
+236. ID = 5,184,008 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076116 , Preprocessed = 100/100 (100.00%)
+237. ID = 5,193,053 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074391 , Preprocessed = 100/100 (100.00%)
+238. ID = 5,193,398 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067840 , Preprocessed = 100/100 (100.00%)
+239. ID = 5,197,296 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077780 , Preprocessed = 93 /100 ( 93.00%)
+240. ID = 5,206,843 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.082226 , Preprocessed = 100/100 (100.00%)
+241. ID = 5,209,217 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077277 , Preprocessed = 100/100 (100.00%)
+242. ID = 5,252,371 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067232 , Preprocessed = 100/100 (100.00%)
+243. ID = 5,320,755 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.085789 , Preprocessed = 100/100 (100.00%)
+244. ID = 5,326,367 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067104 , Preprocessed = 100/100 (100.00%)
+245. ID = 5,341,208 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.063361 , Preprocessed = 100/100 (100.00%)
+246. ID = 5,344,246 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.069022 , Preprocessed = 100/100 (100.00%)
+247. ID = 5,347,146 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075308 , Preprocessed = 100/100 (100.00%)
+248. ID = 5,357,885 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.080044 , Preprocessed = 100/100 (100.00%)
+249. ID = 5,379,495 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071092 , Preprocessed = 100/100 (100.00%)
+250. ID = 5,385,335 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073649 , Preprocessed = 100/100 (100.00%)
+251. ID = 5,412,688 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079069 , Preprocessed = 100/100 (100.00%)
+252. ID = 5,422,040 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.085162 , Preprocessed = 100/100 (100.00%)
+253. ID = 5,424,976 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.080958 , Preprocessed = 100/100 (100.00%)
+254. ID = 5,444,617 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.109271 , Preprocessed = 100/100 (100.00%)
+255. ID = 5,479,277 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.121790 , Preprocessed = 100/100 (100.00%)
+256. ID = 5,489,019 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.097188 , Preprocessed = 100/100 (100.00%)
+257. ID = 5,498,408 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.109935 , Preprocessed = 100/100 (100.00%)
+258. ID = 5,523,863 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.080231 , Preprocessed = 100/100 (100.00%)
+259. ID = 5,573,765 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.089379 , Preprocessed = 100/100 (100.00%)
+260. ID = 5,574,268 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.098783 , Preprocessed = 100/100 (100.00%)
+261. ID = 5,580,051 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.085825 , Preprocessed = 100/100 (100.00%)
+262. ID = 5,605,481 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.080159 , Preprocessed = 100/100 (100.00%)
+263. ID = 5,689,488 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.085988 , Preprocessed = 100/100 (100.00%)
+264. ID = 5,739,886 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.087715 , Preprocessed = 100/100 (100.00%)
+265. ID = 5,742,301 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.086024 , Preprocessed = 100/100 (100.00%)
+266. ID = 5,759,602 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.085658 , Preprocessed = 100/100 (100.00%)
+267. ID = 5,800,576 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.083016 , Preprocessed = 100/100 (100.00%)
+268. ID = 5,808,468 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076623 , Preprocessed = 100/100 (100.00%)
+269. ID = 5,809,883 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.089357 , Preprocessed = 100/100 (100.00%)
+270. ID = 5,812,317 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073553 , Preprocessed = 100/100 (100.00%)
+271. ID = 5,815,514 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075700 , Preprocessed = 100/100 (100.00%)
+272. ID = 5,839,641 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072606 , Preprocessed = 100/100 (100.00%)
+273. ID = 5,851,038 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076678 , Preprocessed = 100/100 (100.00%)
+274. ID = 5,865,466 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075524 , Preprocessed = 100/100 (100.00%)
+275. ID = 5,867,396 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.084032 , Preprocessed = 100/100 (100.00%)
+276. ID = 5,889,032 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075927 , Preprocessed = 100/100 (100.00%)
+277. ID = 5,941,465 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074210 , Preprocessed = 100/100 (100.00%)
+278. ID = 5,944,749 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.088805 , Preprocessed = 100/100 (100.00%)
+279. ID = 5,948,203 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078516 , Preprocessed = 100/100 (100.00%)
+280. ID = 5,958,008 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076393 , Preprocessed = 100/100 (100.00%)
+281. ID = 5,964,902 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078915 , Preprocessed = 100/100 (100.00%)
+282. ID = 509,933   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074804 , Preprocessed = 100/100 (100.00%)
+283. ID = 511,618   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.083502 , Preprocessed = 100/100 (100.00%)
+284. ID = 512,278   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077013 , Preprocessed = 100/100 (100.00%)
+285. ID = 524,903   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.084114 , Preprocessed = 100/100 (100.00%)
+286. ID = 545,424   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.088332 , Preprocessed = 100/100 (100.00%)
+287. ID = 560,614   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077396 , Preprocessed = 100/100 (100.00%)
+288. ID = 567,727   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079025 , Preprocessed = 100/100 (100.00%)
+289. ID = 572,400   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.101445 , Preprocessed = 100/100 (100.00%)
+290. ID = 587,566   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079853 , Preprocessed = 100/100 (100.00%)
+291. ID = 6,016,233 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.083920 , Preprocessed = 100/100 (100.00%)
+292. ID = 6,082,420 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.081701 , Preprocessed = 100/100 (100.00%)
+293. ID = 6,109,442 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.084168 , Preprocessed = 100/100 (100.00%)
+294. ID = 6,111,831 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.084676 , Preprocessed = 100/100 (100.00%)
+295. ID = 6,204,847 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077427 , Preprocessed = 100/100 (100.00%)
+296. ID = 6,208,940 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078255 , Preprocessed = 100/100 (100.00%)
+297. ID = 6,267,060 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.086521 , Preprocessed = 100/100 (100.00%)
+298. ID = 6,294,003 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.083716 , Preprocessed = 100/100 (100.00%)
+299. ID = 6,299,990 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.080576 , Preprocessed = 100/100 (100.00%)
+300. ID = 6,300,407 , Fitness = 0.000000       (Iteration:  216), Runtime = 7.458581 , Preprocessed = 79 /100 ( 79.00%)
+301. ID = 6,319,168 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.084539 , Preprocessed = 100/100 (100.00%)
+302. ID = 6,415,075 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.085981 , Preprocessed = 100/100 (100.00%)
+303. ID = 6,421,362 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.086452 , Preprocessed = 100/100 (100.00%)
+304. ID = 6,450,038 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.068405 , Preprocessed = 100/100 (100.00%)
+305. ID = 6,467,741 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076614 , Preprocessed = 100/100 (100.00%)
+306. ID = 6,480,666 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079808 , Preprocessed = 100/100 (100.00%)
+307. ID = 6,525,843 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075706 , Preprocessed = 100/100 (100.00%)
+308. ID = 6,555,560 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070715 , Preprocessed = 100/100 (100.00%)
+309. ID = 6,566,708 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077680 , Preprocessed = 100/100 (100.00%)
+310. ID = 6,572,340 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077693 , Preprocessed = 100/100 (100.00%)
+311. ID = 6,577,855 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076174 , Preprocessed = 100/100 (100.00%)
+312. ID = 6,605,824 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074994 , Preprocessed = 100/100 (100.00%)
+313. ID = 6,662,341 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.068718 , Preprocessed = 100/100 (100.00%)
+314. ID = 6,683,859 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.064599 , Preprocessed = 100/100 (100.00%)
+315. ID = 6,707,037 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073219 , Preprocessed = 100/100 (100.00%)
+316. ID = 6,729,606 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074957 , Preprocessed = 100/100 (100.00%)
+317. ID = 6,748,048 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076381 , Preprocessed = 100/100 (100.00%)
+318. ID = 6,776,600 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072866 , Preprocessed = 100/100 (100.00%)
+319. ID = 6,808,842 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076266 , Preprocessed = 100/100 (100.00%)
+320. ID = 6,829,362 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075337 , Preprocessed = 100/100 (100.00%)
+321. ID = 6,838,888 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.087555 , Preprocessed = 100/100 (100.00%)
+322. ID = 6,854,699 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076348 , Preprocessed = 100/100 (100.00%)
+323. ID = 6,859,328 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078697 , Preprocessed = 100/100 (100.00%)
+324. ID = 6,894,712 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071675 , Preprocessed = 100/100 (100.00%)
+325. ID = 6,938,177 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.063828 , Preprocessed = 100/100 (100.00%)
+326. ID = 6,949,811 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076796 , Preprocessed = 100/100 (100.00%)
+327. ID = 6,991,530 , Fitness = 2.000000       (Iteration: 1000), Runtime = 36.919361, Preprocessed = 69 /100 ( 69.00%)
+328. ID = 601,615   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079641 , Preprocessed = 100/100 (100.00%)
+329. ID = 608,416   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076380 , Preprocessed = 100/100 (100.00%)
+330. ID = 659,389   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076066 , Preprocessed = 100/100 (100.00%)
+331. ID = 7,024,936 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.081708 , Preprocessed = 100/100 (100.00%)
+332. ID = 7,038,427 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.085878 , Preprocessed = 100/100 (100.00%)
+333. ID = 7,041,324 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072803 , Preprocessed = 100/100 (100.00%)
+334. ID = 7,041,914 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077419 , Preprocessed = 100/100 (100.00%)
+335. ID = 7,044,016 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072440 , Preprocessed = 100/100 (100.00%)
+336. ID = 7,133,643 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076060 , Preprocessed = 100/100 (100.00%)
+337. ID = 7,134,160 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072529 , Preprocessed = 100/100 (100.00%)
+338. ID = 7,138,746 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077677 , Preprocessed = 100/100 (100.00%)
+339. ID = 7,192,302 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071688 , Preprocessed = 100/100 (100.00%)
+340. ID = 7,222,510 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.062443 , Preprocessed = 100/100 (100.00%)
+341. ID = 7,236,810 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078594 , Preprocessed = 100/100 (100.00%)
+342. ID = 7,247,287 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.086280 , Preprocessed = 100/100 (100.00%)
+343. ID = 7,254,613 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071016 , Preprocessed = 100/100 (100.00%)
+344. ID = 7,300,096 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.064243 , Preprocessed = 100/100 (100.00%)
+345. ID = 7,344,360 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.066076 , Preprocessed = 100/100 (100.00%)
+346. ID = 7,358,873 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.081948 , Preprocessed = 100/100 (100.00%)
+347. ID = 7,377,634 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.080679 , Preprocessed = 100/100 (100.00%)
+348. ID = 7,418,341 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078030 , Preprocessed = 100/100 (100.00%)
+349. ID = 7,515,704 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.082008 , Preprocessed = 100/100 (100.00%)
+350. ID = 7,525,169 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.069561 , Preprocessed = 100/100 (100.00%)
+351. ID = 7,543,890 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079651 , Preprocessed = 100/100 (100.00%)
+352. ID = 7,558,344 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073410 , Preprocessed = 100/100 (100.00%)
+353. ID = 7,582,392 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074493 , Preprocessed = 100/100 (100.00%)
+354. ID = 7,615,593 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075869 , Preprocessed = 100/100 (100.00%)
+355. ID = 7,652,197 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076431 , Preprocessed = 100/100 (100.00%)
+356. ID = 7,654,341 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077588 , Preprocessed = 100/100 (100.00%)
+357. ID = 7,672,930 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067661 , Preprocessed = 100/100 (100.00%)
+358. ID = 7,734,324 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.066710 , Preprocessed = 100/100 (100.00%)
+359. ID = 7,753,851 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074309 , Preprocessed = 100/100 (100.00%)
+360. ID = 7,774,049 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077537 , Preprocessed = 100/100 (100.00%)
+361. ID = 7,823,586 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078614 , Preprocessed = 100/100 (100.00%)
+362. ID = 7,828,639 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.060643 , Preprocessed = 100/100 (100.00%)
+363. ID = 7,829,343 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.066998 , Preprocessed = 100/100 (100.00%)
+364. ID = 7,856,149 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076386 , Preprocessed = 100/100 (100.00%)
+365. ID = 7,889,017 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.081788 , Preprocessed = 100/100 (100.00%)
+366. ID = 7,906,681 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067937 , Preprocessed = 100/100 (100.00%)
+367. ID = 7,932,024 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074353 , Preprocessed = 100/100 (100.00%)
+368. ID = 7,954,446 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.059312 , Preprocessed = 100/100 (100.00%)
+369. ID = 7,984,061 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.059691 , Preprocessed = 100/100 (100.00%)
+370. ID = 7,985,967 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077217 , Preprocessed = 100/100 (100.00%)
+371. ID = 7,989,235 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077003 , Preprocessed = 100/100 (100.00%)
+372. ID = 7,993,145 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067824 , Preprocessed = 100/100 (100.00%)
+373. ID = 706,483   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.064479 , Preprocessed = 100/100 (100.00%)
+374. ID = 726,454   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067388 , Preprocessed = 100/100 (100.00%)
+375. ID = 727,684   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.069381 , Preprocessed = 100/100 (100.00%)
+376. ID = 741,263   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079010 , Preprocessed = 100/100 (100.00%)
+377. ID = 742,897   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.068230 , Preprocessed = 100/100 (100.00%)
+378. ID = 796,748   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.091949 , Preprocessed = 100/100 (100.00%)
+379. ID = 8,001,698 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.069716 , Preprocessed = 100/100 (100.00%)
+380. ID = 8,025,600 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074397 , Preprocessed = 100/100 (100.00%)
+381. ID = 8,061,178 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075963 , Preprocessed = 100/100 (100.00%)
+382. ID = 8,066,884 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073305 , Preprocessed = 100/100 (100.00%)
+383. ID = 8,126,043 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.066894 , Preprocessed = 100/100 (100.00%)
+384. ID = 8,127,199 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.066848 , Preprocessed = 100/100 (100.00%)
+385. ID = 8,132,251 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073563 , Preprocessed = 100/100 (100.00%)
+386. ID = 8,175,282 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079500 , Preprocessed = 100/100 (100.00%)
+387. ID = 8,187,362 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072021 , Preprocessed = 100/100 (100.00%)
+388. ID = 8,190,053 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078640 , Preprocessed = 100/100 (100.00%)
+389. ID = 8,198,279 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.068986 , Preprocessed = 100/100 (100.00%)
+390. ID = 8,209,913 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.066207 , Preprocessed = 100/100 (100.00%)
+391. ID = 8,230,503 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.088326 , Preprocessed = 100/100 (100.00%)
+392. ID = 8,316,533 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070302 , Preprocessed = 100/100 (100.00%)
+393. ID = 8,332,755 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.082187 , Preprocessed = 100/100 (100.00%)
+394. ID = 8,400,708 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071621 , Preprocessed = 100/100 (100.00%)
+395. ID = 8,410,419 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.082255 , Preprocessed = 100/100 (100.00%)
+396. ID = 8,450,299 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077741 , Preprocessed = 100/100 (100.00%)
+397. ID = 8,470,028 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073761 , Preprocessed = 100/100 (100.00%)
+398. ID = 8,482,153 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074228 , Preprocessed = 100/100 (100.00%)
+399. ID = 8,492,712 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077888 , Preprocessed = 100/100 (100.00%)
+400. ID = 8,504,766 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.085723 , Preprocessed = 100/100 (100.00%)
+401. ID = 8,518,756 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075148 , Preprocessed = 100/100 (100.00%)
+402. ID = 8,536,258 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078213 , Preprocessed = 100/100 (100.00%)
+403. ID = 8,549,482 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.068011 , Preprocessed = 100/100 (100.00%)
+404. ID = 8,565,292 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075944 , Preprocessed = 100/100 (100.00%)
+405. ID = 8,570,870 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075804 , Preprocessed = 100/100 (100.00%)
+406. ID = 8,575,368 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.064709 , Preprocessed = 100/100 (100.00%)
+407. ID = 8,601,644 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.094990 , Preprocessed = 100/100 (100.00%)
+408. ID = 8,604,073 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.069032 , Preprocessed = 100/100 (100.00%)
+409. ID = 8,612,904 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.061092 , Preprocessed = 100/100 (100.00%)
+410. ID = 8,636,663 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076932 , Preprocessed = 100/100 (100.00%)
+411. ID = 8,653,953 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.136160 , Preprocessed = 100/100 (100.00%)
+412. ID = 8,661,897 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079430 , Preprocessed = 100/100 (100.00%)
+413. ID = 8,684,908 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079127 , Preprocessed = 100/100 (100.00%)
+414. ID = 8,696,861 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070847 , Preprocessed = 100/100 (100.00%)
+415. ID = 8,722,156 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077290 , Preprocessed = 100/100 (100.00%)
+416. ID = 8,764,086 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.066983 , Preprocessed = 100/100 (100.00%)
+417. ID = 8,768,073 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078225 , Preprocessed = 100/100 (100.00%)
+418. ID = 8,770,461 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.069893 , Preprocessed = 100/100 (100.00%)
+419. ID = 8,790,936 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071297 , Preprocessed = 100/100 (100.00%)
+420. ID = 8,798,625 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.066644 , Preprocessed = 100/100 (100.00%)
+421. ID = 8,852,015 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077102 , Preprocessed = 100/100 (100.00%)
+422. ID = 8,857,484 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076544 , Preprocessed = 100/100 (100.00%)
+423. ID = 8,886,075 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077138 , Preprocessed = 100/100 (100.00%)
+424. ID = 8,894,408 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.066928 , Preprocessed = 100/100 (100.00%)
+425. ID = 8,901,025 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077995 , Preprocessed = 100/100 (100.00%)
+426. ID = 8,912,432 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070536 , Preprocessed = 100/100 (100.00%)
+427. ID = 8,930,096 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077554 , Preprocessed = 100/100 (100.00%)
+428. ID = 8,934,423 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.063750 , Preprocessed = 100/100 (100.00%)
+429. ID = 8,939,151 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.065819 , Preprocessed = 100/100 (100.00%)
+430. ID = 8,964,286 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.081058 , Preprocessed = 100/100 (100.00%)
+431. ID = 812,814   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.086660 , Preprocessed = 100/100 (100.00%)
+432. ID = 82,590    , Fitness = 0.000000       (Iteration:    1), Runtime = 0.088816 , Preprocessed = 100/100 (100.00%)
+433. ID = 820,244   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077872 , Preprocessed = 100/100 (100.00%)
+434. ID = 833,332   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071198 , Preprocessed = 100/100 (100.00%)
+435. ID = 854,470   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.081907 , Preprocessed = 100/100 (100.00%)
+436. ID = 861,556   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.068954 , Preprocessed = 100/100 (100.00%)
+437. ID = 884,252   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073986 , Preprocessed = 100/100 (100.00%)
+438. ID = 9,015,005 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070642 , Preprocessed = 100/100 (100.00%)
+439. ID = 9,027,734 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074729 , Preprocessed = 100/100 (100.00%)
+440. ID = 9,046,706 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076621 , Preprocessed = 100/100 (100.00%)
+441. ID = 9,093,675 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074356 , Preprocessed = 100/100 (100.00%)
+442. ID = 9,099,299 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078111 , Preprocessed = 100/100 (100.00%)
+443. ID = 9,129,550 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077854 , Preprocessed = 100/100 (100.00%)
+444. ID = 9,163,703 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.068988 , Preprocessed = 100/100 (100.00%)
+445. ID = 9,167,329 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.079289 , Preprocessed = 100/100 (100.00%)
+446. ID = 9,170,580 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077857 , Preprocessed = 100/100 (100.00%)
+447. ID = 9,172,588 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.069523 , Preprocessed = 100/100 (100.00%)
+448. ID = 9,222,765 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070676 , Preprocessed = 100/100 (100.00%)
+449. ID = 9,273,752 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.066864 , Preprocessed = 100/100 (100.00%)
+450. ID = 9,275,681 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078345 , Preprocessed = 100/100 (100.00%)
+451. ID = 9,277,831 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070919 , Preprocessed = 100/100 (100.00%)
+452. ID = 9,280,716 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073931 , Preprocessed = 100/100 (100.00%)
+453. ID = 9,319,095 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.069551 , Preprocessed = 100/100 (100.00%)
+454. ID = 9,320,233 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.082474 , Preprocessed = 100/100 (100.00%)
+455. ID = 9,324,805 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.070096 , Preprocessed = 100/100 (100.00%)
+456. ID = 9,340,958 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.084237 , Preprocessed = 100/100 (100.00%)
+457. ID = 9,370,496 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.068979 , Preprocessed = 100/100 (100.00%)
+458. ID = 9,393,251 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072307 , Preprocessed = 100/100 (100.00%)
+459. ID = 9,393,316 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074642 , Preprocessed = 100/100 (100.00%)
+460. ID = 9,393,985 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074454 , Preprocessed = 100/100 (100.00%)
+461. ID = 9,401,282 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.071440 , Preprocessed = 100/100 (100.00%)
+462. ID = 9,425,854 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067138 , Preprocessed = 100/100 (100.00%)
+463. ID = 9,429,477 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074317 , Preprocessed = 100/100 (100.00%)
+464. ID = 9,429,717 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077065 , Preprocessed = 100/100 (100.00%)
+465. ID = 9,432,900 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078192 , Preprocessed = 100/100 (100.00%)
+466. ID = 9,444,276 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072164 , Preprocessed = 100/100 (100.00%)
+467. ID = 9,458,515 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074263 , Preprocessed = 100/100 (100.00%)
+468. ID = 9,472,758 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075936 , Preprocessed = 100/100 (100.00%)
+469. ID = 9,474,535 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073432 , Preprocessed = 100/100 (100.00%)
+470. ID = 9,482,071 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074071 , Preprocessed = 100/100 (100.00%)
+471. ID = 9,487,989 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078344 , Preprocessed = 100/100 (100.00%)
+472. ID = 9,496,335 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.069253 , Preprocessed = 100/100 (100.00%)
+473. ID = 9,497,378 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.066625 , Preprocessed = 100/100 (100.00%)
+474. ID = 9,515,219 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.081231 , Preprocessed = 100/100 (100.00%)
+475. ID = 9,517,885 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077355 , Preprocessed = 100/100 (100.00%)
+476. ID = 9,609,029 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067717 , Preprocessed = 100/100 (100.00%)
+477. ID = 9,617,167 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.084184 , Preprocessed = 100/100 (100.00%)
+478. ID = 9,618,484 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076887 , Preprocessed = 100/100 (100.00%)
+479. ID = 9,629,097 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.081118 , Preprocessed = 100/100 (100.00%)
+480. ID = 9,683,055 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.059627 , Preprocessed = 100/100 (100.00%)
+481. ID = 9,700,008 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073204 , Preprocessed = 100/100 (100.00%)
+482. ID = 9,705,321 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078589 , Preprocessed = 100/100 (100.00%)
+483. ID = 9,733,517 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.062992 , Preprocessed = 100/100 (100.00%)
+484. ID = 9,779,304 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076390 , Preprocessed = 100/100 (100.00%)
+485. ID = 9,805,071 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.076037 , Preprocessed = 100/100 (100.00%)
+486. ID = 9,873,686 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.062930 , Preprocessed = 100/100 (100.00%)
+487. ID = 9,901,705 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075408 , Preprocessed = 100/100 (100.00%)
+488. ID = 9,914,072 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067786 , Preprocessed = 100/100 (100.00%)
+489. ID = 9,914,361 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.078144 , Preprocessed = 100/100 (100.00%)
+490. ID = 9,934,097 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.085131 , Preprocessed = 100/100 (100.00%)
+491. ID = 9,934,849 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.072250 , Preprocessed = 100/100 (100.00%)
+492. ID = 9,949,761 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.077468 , Preprocessed = 100/100 (100.00%)
+493. ID = 9,950,789 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.089088 , Preprocessed = 100/100 (100.00%)
+494. ID = 9,954,822 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073300 , Preprocessed = 100/100 (100.00%)
+495. ID = 9,965,620 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.067503 , Preprocessed = 100/100 (100.00%)
+496. ID = 9,973,748 , Fitness = 0.000000       (Iteration:    1), Runtime = 0.082090 , Preprocessed = 100/100 (100.00%)
+497. ID = 901,168   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.083150 , Preprocessed = 100/100 (100.00%)
+498. ID = 96,956    , Fitness = 0.000000       (Iteration:    1), Runtime = 0.073107 , Preprocessed = 100/100 (100.00%)
+499. ID = 966,246   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.074933 , Preprocessed = 100/100 (100.00%)
+500. ID = 982,938   , Fitness = 0.000000       (Iteration:    1), Runtime = 0.075737 , Preprocessed = 100/100 (100.00%)
+
+Seed =
+('MT19937', array([1449192608,  288156736, 3080934276, 2133210696, 2164314816,
+       2275564015, 3941839947,  662941868, 3134874331, 1181615668,
+       3725110138, 4021333017, 1119215783, 4222081250, 2593825098,
+       1425732888, 2915956768, 3314879549, 2021410144, 4226498191,
+       2846982391, 1119528254, 3250247660,  686757465, 3140174176,
+       2857176659, 2109384905, 1277928266, 2865179542,  256417900,
+       2034787792, 3369578801, 1896313905, 2391750257,  900835407,
+       2024625506, 2794411369, 3908300608, 1351652778, 1333003239,
+       3944326130, 2864271205, 1588852697, 4213345932, 1913215696,
+        913154570, 3149888519, 2222777197, 1201444441, 3787870688,
+       2959123760, 3744737577, 1703192492, 3340701007, 3085347654,
+       3308111662, 1015207701, 2162019620,  549299149, 3576283529,
+       1261496014, 1816157050,  699367115,  853983237,  361890130,
+       1718666504, 2564625219, 4056555036, 2189233560,  578576016,
+       1574552406, 1530506058, 2923394029, 3009464971, 3368426287,
+       2667331234,  885187124,  708821211,  331011981, 1080052391,
+        667611231, 4225700415, 1625132249,     150442,  141886158,
+        190619064, 4203916164, 3842082388, 2474251006, 1849320778,
+       1388723772,  270532905, 1997975843, 1370606701, 2450000879,
+        515787118, 3343416906, 2214798054, 4274432683, 1110356121,
+        346571065, 2444031604, 2659872673, 3821089698, 2647751373,
+       4280201782, 1302073592, 1871772403, 4022794172, 2063317345,
+       2731078544, 1375992084, 1834825478, 4154227840, 2117486836,
+       1851018883, 1849913152, 3455311417, 2870371113, 3664176101,
+        844675682, 3537826983, 2109900647, 1165229091, 2467183074,
+        970357182,  417726212, 4185157412,  275491802, 1389539698,
+       3210578411, 2740687370, 1243275802, 2814557752, 2703467524,
+       1602305538, 3360492595, 3915832422,  375819853, 3537032398,
+       4034092880, 1998707006, 3264919441,  865387786,  552682256,
+       3560177352, 1641029052,  706232971, 2342870997,   95267489,
+       3375897023, 4059828659, 3132160729, 2642741172, 3708337302,
+       3174100552, 1874473369,   31217171, 1089058483,  331490528,
+       1713941267, 3559756353, 2934737390,  120626895,   33545933,
+       2617313322, 1330659667, 2555288989, 2314395511, 2659281861,
+       2367269305, 1115198242, 3337669210, 3994846011, 1584094385,
+       3119104428, 3782936876, 1843337117, 4187297444, 2033813460,
+       1197813989, 1751360037, 3367146448, 3366760718, 2219452178,
+       1802784137, 3222540282, 1462023134, 1072485441, 1712906792,
+        538664139, 1003785842,  859929862, 4139227322,   98923498,
+        208858326, 3877727103, 1056760951, 1731772839, 1812820225,
+       4149527875, 1717011040, 1903386580, 2509332287,  413656267,
+       3849940408, 3627997848,   90856415, 1023427185, 4038250823,
+         74843230, 1281625340, 2517825423, 3485863542, 2326089980,
+       2987589494,  903401542,  304448070, 2086794510, 4092844998,
+       3091614801,  448744416, 1548326823, 2807984594, 1252164593,
+        297737488, 1940095945, 1883403711, 2963861560, 2461779537,
+       3091659655, 3099855932,  100879869, 1663741134, 3137002215,
+        746883749,  160234514, 3597832207, 3816376314,  827507507,
+       3119587141, 2168348366,  341334248,  871133211, 4016463970,
+       2785383254, 1782919022, 1532964222, 4150697762, 3220017298,
+        704867749, 2973932417, 2134990416,  127208445, 3966775703,
+       2513084042,    8522905, 2967709158, 2843328270, 2014940647,
+       2723162263,  478645224, 2939657521, 2350011580, 2554243517,
+        171725902, 3197802879, 1523548484, 1522450165, 3137719250,
+       2671696737,  609504971, 3716524297, 2023143020, 2339514881,
+       2746658004, 3268266305, 3792438130, 2960083214, 3529166383,
+        404569600, 3250430530,  723518125,  731451900,  695681557,
+       3891020928, 2702539016, 1440615931, 2660577105, 3438456040,
+       2951286012, 3343342590, 3087930109,  782681544,  909145191,
+       2446927556,  280071077,  901860748, 2087893931, 3515538684,
+       3717758943, 1248074584, 1465905047,   36830379, 3546481173,
+       1618594941, 2611197848, 3539638564, 4195619196, 2241621118,
+       1217664428, 2866915502,  338497368, 3861457802, 1309296115,
+       3949565028, 2634896813,  449910995, 3205075041,  532320816,
+       1603140520, 1811997918, 2856416631,  450087751,  117642757,
+       3306223775, 3279640288, 1634237655,  209787214, 2477516733,
+        694201414, 2525575001,  979350701, 3338978018, 4123321442,
+       2968285148, 2401930789, 2885061673,  273624407, 2942027889,
+       1003939852, 1381489892, 3915495038, 2876487131, 2586479117,
+        402798389, 1068151112, 3351054501, 2452936755,  417699934,
+         97492348, 2245708419, 1465211098, 4030058953,   72233970,
+        112108823,  389112105, 3387884154, 4198923287, 1197275439,
+        790300248, 1297309886,  370614947, 3544989994, 2345666088,
+       2799946151, 3756535206, 3392401159, 3311333609, 2409988010,
+       1569576958, 4226409194,  453360851, 2513094740, 2155180647,
+       1249054935, 3934525906, 1696154803, 1771084326, 3542992386,
+        107118242, 1976447357,  904469040, 2109590191, 1886296783,
+       3462501058, 1821311888, 2466850508, 1257728468,  712867563,
+        273148352, 3553691118, 2641238986, 2491451805, 3213715961,
+       2153582535, 1956555834, 2584652894, 2829446621,  518132980,
+       3178987431, 3844265185,  502799109,  679884417, 3602830037,
+        152120214,   57282783, 1647507565, 1918909776,  367577090,
+        812751446, 3351433251, 2605313117, 2012295285, 2535549204,
+       4146427404, 1004672709, 1849337144, 2554387630, 3400823971,
+       3867646762, 2072377383,  451374956, 3682428853, 2792679277,
+       3479824016,  380699821, 2452984739, 3950448629, 1227286448,
+       3462095254, 1578894501, 3830486853,  711444595, 1341881572,
+       2928936253,   58561148, 4021725932, 1376490425, 2218253794,
+        377389754, 3819224315, 3142881530, 3905148598, 2763004615,
+       1103103127, 2212178586, 1207417607, 3863480545,  866617788,
+        793060969, 1632846710,  693435177,  168240413,  582239864,
+       4222396846, 3054475588, 2535156248, 2921176883, 3267910187,
+       3785958806, 3346898948, 2168349284, 2879214301, 4229006425,
+       2732040321,  530517541, 2568853207, 4239574173, 2869037031,
+       3148849943, 2958107512, 1794856396, 1901255718,   85044411,
+        407021770, 2650671692, 4209649599, 2821746875,  381159249,
+       1647380374, 1293384081, 3730522743, 2190572024,  545127692,
+        206883287, 1650382673, 4117552966, 4182756685, 4287048239,
+       1690687932, 1357897161, 3040547244, 3899068067, 1473902800,
+       3804260411, 1056128929, 2335878046, 3774294421, 3340751680,
+       3081494283,  572660087, 3864013716, 3714839612, 4264611321,
+       3551604573, 3958811534,   94566382,  609147255, 4033846807,
+       2700546675, 1571232198, 3234717876, 1594197065, 2960077060,
+       1970506206, 3711895935, 2311326170,  352034220, 2187100065,
+       1886333655, 2761585218,  674419380, 3465978443, 1163427384,
+       1252081345, 2844119124,  844682981, 2489353979, 1529721439,
+        214414660, 2410108969, 3107083679,  473517219, 1486587503,
+        398558365, 4098917898, 4209417244, 3934569514, 4200772888,
+        421668211, 3559315556, 1732059428, 4084129315, 1476333510,
+       1696955799, 2128288327,  150603551, 2540082676,  479481492,
+       1020024646, 3228136883, 1312621341, 2268480901,  644823933,
+       3637360215, 3060983533, 2585771273, 2682759524,  412321886,
+        387144450, 3406142224, 1552164870, 3654456577,  565217227,
+       1301695720, 1561128031, 2144447827, 2113108989, 2260073328,
+       1393961223, 2080555390, 3720374389,  257697495,  336888300,
+       2900104336, 2396364910, 4134962413, 3777298206, 3390654018,
+       2588109754, 1484555813, 2583803580, 3648699556, 2599960293,
+       3362421145, 1479249854, 2343488316, 2671068351, 3153202433,
+        304474877, 1686548536, 2506132514, 3563002944, 3741215793,
+       1273373649,  778454375, 2031665133, 4170587051, 3875602620,
+       3792500709, 1365862452, 2306397818, 3092624620, 3593654550,
+        974479744,  572770684, 2874459813, 2055210969, 1275401050,
+       2991039483,  398180428, 2064842291, 2333013468, 3897925270,
+       2779031878, 1632373056, 1399105541, 3805953262,  249710867,
+        439930963,   75144519,  913498844,  531552874], dtype=uint32), 502, 0, 0.0)

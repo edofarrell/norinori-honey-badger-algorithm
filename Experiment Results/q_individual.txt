@@ -1,0 +1,264 @@
+Puzzle: 6 hard
+Amount: 100
+Result details: ./Result/q_individual.csv
+Maximum Fitness: 251.60000000000002
+
+-----Parameters-----
+Objective Function Weight = [0.2, 0.2, 0.1, 0.25, 0.25]
+C = 2
+beta = 6
+N = 50
+D = 36
+lb = 0
+ub = 1
+t_max = 1000
+count = 33
+k = 2
+reward = [-1, 1]
+alpha = 0.1
+gamma = 0.6
+eps = 0.6
+chi = 0.2
+
+-----Results-----
+Fitness:
+	Minimal = 0.0
+	Maximal = 6.4
+	Average = 2.1470000000000002
+	Standard Deviation = 1.774962253119767
+Average Performance = 87.35925705611152%
+Runtime:
+	Average = 11.466953017711639
+	Total = 1146.695301771164
+Optimal = 19/100 (19.0%)
+Optimal by Preprocessing = 6/100 (6.0%)
+Average Preprocessing = 47.11111111111111%
+
+-----Details-----
+1.   ID = 1,003,822 , Fitness = 2.0500    (Iteration: 1000), Runtime = 12.4620, Preprocessed = 23/36 ( 63.89%), Preprocessed Fitness = 13.5000   , Performance =  84.81%
+2.   ID = 1,124,444 , Fitness = 3.1500    (Iteration: 1000), Runtime = 14.6942, Preprocessed = 7 /36 ( 19.44%), Preprocessed Fitness = 19.9500   , Performance =  84.21%
+3.   ID = 1,188,236 , Fitness = 2.8000    (Iteration: 1000), Runtime = 13.6372, Preprocessed = 10/36 ( 27.78%), Preprocessed Fitness = 20.4500   , Performance =  86.31%
+4.   ID = 1,191,192 , Fitness = 0.0000    (Iteration:    1), Runtime = 0.0070 , Preprocessed = 36/36 (100.00%), Preprocessed Fitness = 0.0000    , Performance =   0.00%
+5.   ID = 1,192,723 , Fitness = 0.8000    (Iteration: 1000), Runtime = 14.8464, Preprocessed = 9 /36 ( 25.00%), Preprocessed Fitness = 20.2000   , Performance =  96.04%
+6.   ID = 1,194,297 , Fitness = 1.2000    (Iteration: 1000), Runtime = 13.3819, Preprocessed = 16/36 ( 44.44%), Preprocessed Fitness = 16.8000   , Performance =  92.86%
+7.   ID = 1,198,412 , Fitness = 3.4000    (Iteration: 1000), Runtime = 12.9463, Preprocessed = 19/36 ( 52.78%), Preprocessed Fitness = 16.6000   , Performance =  79.52%
+8.   ID = 1,217,965 , Fitness = 2.8000    (Iteration: 1000), Runtime = 14.0923, Preprocessed = 11/36 ( 30.56%), Preprocessed Fitness = 18.0000   , Performance =  84.44%
+9.   ID = 1,253,849 , Fitness = 2.5500    (Iteration: 1000), Runtime = 12.6928, Preprocessed = 20/36 ( 55.56%), Preprocessed Fitness = 10.9000   , Performance =  76.61%
+10.  ID = 1,317,605 , Fitness = 4.0000    (Iteration: 1000), Runtime = 14.8279, Preprocessed = 8 /36 ( 22.22%), Preprocessed Fitness = 21.2000   , Performance =  81.13%
+11.  ID = 1,332,159 , Fitness = 1.2000    (Iteration: 1000), Runtime = 14.5234, Preprocessed = 11/36 ( 30.56%), Preprocessed Fitness = 20.8000   , Performance =  94.23%
+12.  ID = 1,341,844 , Fitness = 1.2000    (Iteration: 1000), Runtime = 13.4577, Preprocessed = 19/36 ( 52.78%), Preprocessed Fitness = 13.7500   , Performance =  91.27%
+13.  ID = 1,343,094 , Fitness = 1.2000    (Iteration: 1000), Runtime = 14.8446, Preprocessed = 11/36 ( 30.56%), Preprocessed Fitness = 19.6000   , Performance =  93.88%
+14.  ID = 1,350,652 , Fitness = 0.0000    (Iteration:    2), Runtime = 0.0301 , Preprocessed = 22/36 ( 61.11%), Preprocessed Fitness = 13.8500   , Performance = 100.00%
+15.  ID = 1,375,820 , Fitness = 0.0000    (Iteration:    1), Runtime = 0.0113 , Preprocessed = 36/36 (100.00%), Preprocessed Fitness = 0.0000    , Performance =   0.00%
+16.  ID = 1,430,637 , Fitness = 1.2000    (Iteration: 1000), Runtime = 14.2106, Preprocessed = 16/36 ( 44.44%), Preprocessed Fitness = 19.1000   , Performance =  93.72%
+17.  ID = 1,454,003 , Fitness = 1.2000    (Iteration: 1000), Runtime = 13.6920, Preprocessed = 16/36 ( 44.44%), Preprocessed Fitness = 17.7000   , Performance =  93.22%
+18.  ID = 1,470,603 , Fitness = 0.0000    (Iteration:    1), Runtime = 0.0106 , Preprocessed = 36/36 (100.00%), Preprocessed Fitness = 0.0000    , Performance =   0.00%
+19.  ID = 1,480,509 , Fitness = 5.3500    (Iteration: 1000), Runtime = 14.7737, Preprocessed = 6 /36 ( 16.67%), Preprocessed Fitness = 20.9500   , Performance =  74.46%
+20.  ID = 1,505,558 , Fitness = 3.0000    (Iteration: 1000), Runtime = 15.5276, Preprocessed = 7 /36 ( 19.44%), Preprocessed Fitness = 21.7000   , Performance =  86.18%
+21.  ID = 1,554,862 , Fitness = 2.2500    (Iteration: 1000), Runtime = 15.5046, Preprocessed = 7 /36 ( 19.44%), Preprocessed Fitness = 20.4500   , Performance =  89.00%
+22.  ID = 1,568,229 , Fitness = 1.2000    (Iteration: 1000), Runtime = 13.9734, Preprocessed = 18/36 ( 50.00%), Preprocessed Fitness = 14.4000   , Performance =  91.67%
+23.  ID = 1,589,978 , Fitness = 0.8000    (Iteration: 1000), Runtime = 13.7479, Preprocessed = 20/36 ( 55.56%), Preprocessed Fitness = 16.3000   , Performance =  95.09%
+24.  ID = 1,605,903 , Fitness = 1.2000    (Iteration: 1000), Runtime = 15.3231, Preprocessed = 8 /36 ( 22.22%), Preprocessed Fitness = 20.2000   , Performance =  94.06%
+25.  ID = 1,611,457 , Fitness = 3.2000    (Iteration: 1000), Runtime = 13.7043, Preprocessed = 18/36 ( 50.00%), Preprocessed Fitness = 16.4500   , Performance =  80.55%
+26.  ID = 1,615,209 , Fitness = 3.8000    (Iteration: 1000), Runtime = 14.6790, Preprocessed = 9 /36 ( 25.00%), Preprocessed Fitness = 19.0500   , Performance =  80.05%
+27.  ID = 1,700,818 , Fitness = 1.6000    (Iteration: 1000), Runtime = 12.2468, Preprocessed = 24/36 ( 66.67%), Preprocessed Fitness = 13.8000   , Performance =  88.41%
+28.  ID = 1,744,893 , Fitness = 2.8000    (Iteration: 1000), Runtime = 14.2068, Preprocessed = 18/36 ( 50.00%), Preprocessed Fitness = 16.4500   , Performance =  82.98%
+29.  ID = 1,771,362 , Fitness = 1.6000    (Iteration: 1000), Runtime = 14.1916, Preprocessed = 15/36 ( 41.67%), Preprocessed Fitness = 17.3500   , Performance =  90.78%
+30.  ID = 1,807,054 , Fitness = 0.0000    (Iteration:    2), Runtime = 0.0236 , Preprocessed = 27/36 ( 75.00%), Preprocessed Fitness = 6.9500    , Performance = 100.00%
+31.  ID = 1,821,140 , Fitness = 1.2000    (Iteration: 1000), Runtime = 13.1253, Preprocessed = 20/36 ( 55.56%), Preprocessed Fitness = 12.5500   , Performance =  90.44%
+32.  ID = 1,823,388 , Fitness = 1.6000    (Iteration: 1000), Runtime = 12.5478, Preprocessed = 19/36 ( 52.78%), Preprocessed Fitness = 14.4500   , Performance =  88.93%
+33.  ID = 1,831,701 , Fitness = 5.5000    (Iteration: 1000), Runtime = 14.7269, Preprocessed = 6 /36 ( 16.67%), Preprocessed Fitness = 19.9500   , Performance =  72.43%
+34.  ID = 1,905,338 , Fitness = 0.8000    (Iteration: 1000), Runtime = 14.1200, Preprocessed = 12/36 ( 33.33%), Preprocessed Fitness = 20.4000   , Performance =  96.08%
+35.  ID = 1,925,806 , Fitness = 2.2500    (Iteration: 1000), Runtime = 14.2706, Preprocessed = 14/36 ( 38.89%), Preprocessed Fitness = 18.7000   , Performance =  87.97%
+36.  ID = 1,945,389 , Fitness = 0.0000    (Iteration:    1), Runtime = 0.0127 , Preprocessed = 36/36 (100.00%), Preprocessed Fitness = 0.0000    , Performance =   0.00%
+37.  ID = 1,945,835 , Fitness = 2.8000    (Iteration: 1000), Runtime = 14.3980, Preprocessed = 7 /36 ( 19.44%), Preprocessed Fitness = 19.7000   , Performance =  85.79%
+38.  ID = 1,966,415 , Fitness = 1.5500    (Iteration: 1000), Runtime = 12.6086, Preprocessed = 28/36 ( 77.78%), Preprocessed Fitness = 11.2500   , Performance =  86.22%
+39.  ID = 10,016,966, Fitness = 0.0000    (Iteration:   54), Runtime = 0.6665 , Preprocessed = 27/36 ( 75.00%), Preprocessed Fitness = 7.1500    , Performance = 100.00%
+40.  ID = 10,021,279, Fitness = 3.2000    (Iteration: 1000), Runtime = 14.0583, Preprocessed = 16/36 ( 44.44%), Preprocessed Fitness = 15.6000   , Performance =  79.49%
+41.  ID = 10,043,693, Fitness = 6.4000    (Iteration: 1000), Runtime = 13.7705, Preprocessed = 16/36 ( 44.44%), Preprocessed Fitness = 18.8500   , Performance =  66.05%
+42.  ID = 10,068,202, Fitness = 0.0000    (Iteration:    1), Runtime = 0.0095 , Preprocessed = 36/36 (100.00%), Preprocessed Fitness = 0.0000    , Performance =   0.00%
+43.  ID = 10,070,131, Fitness = 3.5500    (Iteration: 1000), Runtime = 14.0389, Preprocessed = 15/36 ( 41.67%), Preprocessed Fitness = 18.6000   , Performance =  80.91%
+44.  ID = 10,085,101, Fitness = 0.0000    (Iteration:    1), Runtime = 0.0106 , Preprocessed = 29/36 ( 80.56%), Preprocessed Fitness = 11.3500   , Performance = 100.00%
+45.  ID = 10,087,831, Fitness = 0.8000    (Iteration: 1000), Runtime = 13.7406, Preprocessed = 24/36 ( 66.67%), Preprocessed Fitness = 11.9500   , Performance =  93.31%
+46.  ID = 10,091,029, Fitness = 4.7500    (Iteration: 1000), Runtime = 15.4940, Preprocessed = 12/36 ( 33.33%), Preprocessed Fitness = 19.4500   , Performance =  75.58%
+47.  ID = 10,137,351, Fitness = 1.2000    (Iteration: 1000), Runtime = 13.0683, Preprocessed = 20/36 ( 55.56%), Preprocessed Fitness = 14.7000   , Performance =  91.84%
+48.  ID = 10,144,426, Fitness = 5.5500    (Iteration: 1000), Runtime = 14.4641, Preprocessed = 9 /36 ( 25.00%), Preprocessed Fitness = 19.7000   , Performance =  71.83%
+49.  ID = 10,152,033, Fitness = 1.2000    (Iteration: 1000), Runtime = 15.0651, Preprocessed = 6 /36 ( 16.67%), Preprocessed Fitness = 20.7000   , Performance =  94.20%
+50.  ID = 10,158,551, Fitness = 1.6000    (Iteration: 1000), Runtime = 14.4309, Preprocessed = 11/36 ( 30.56%), Preprocessed Fitness = 19.0000   , Performance =  91.58%
+51.  ID = 10,182,657, Fitness = 2.8000    (Iteration: 1000), Runtime = 15.3593, Preprocessed = 5 /36 ( 13.89%), Preprocessed Fitness = 19.9500   , Performance =  85.96%
+52.  ID = 10,220,885, Fitness = 4.7500    (Iteration: 1000), Runtime = 14.6907, Preprocessed = 6 /36 ( 16.67%), Preprocessed Fitness = 21.2000   , Performance =  77.59%
+53.  ID = 10,235,976, Fitness = 0.0000    (Iteration:    2), Runtime = 0.0208 , Preprocessed = 28/36 ( 77.78%), Preprocessed Fitness = 9.7500    , Performance = 100.00%
+54.  ID = 10,242,960, Fitness = 4.4000    (Iteration: 1000), Runtime = 15.9130, Preprocessed = 8 /36 ( 22.22%), Preprocessed Fitness = 19.9500   , Performance =  77.94%
+55.  ID = 10,291,921, Fitness = 4.3000    (Iteration: 1000), Runtime = 15.8098, Preprocessed = 5 /36 ( 13.89%), Preprocessed Fitness = 20.7000   , Performance =  79.23%
+56.  ID = 10,300,640, Fitness = 1.5500    (Iteration: 1000), Runtime = 13.6656, Preprocessed = 21/36 ( 58.33%), Preprocessed Fitness = 12.9000   , Performance =  87.98%
+57.  ID = 10,402,342, Fitness = 0.0000    (Iteration:    4), Runtime = 0.0481 , Preprocessed = 30/36 ( 83.33%), Preprocessed Fitness = 6.7500    , Performance = 100.00%
+58.  ID = 10,443,070, Fitness = 1.2000    (Iteration: 1000), Runtime = 12.5073, Preprocessed = 24/36 ( 66.67%), Preprocessed Fitness = 15.6000   , Performance =  92.31%
+59.  ID = 10,481,179, Fitness = 0.0000    (Iteration:   23), Runtime = 0.3197 , Preprocessed = 20/36 ( 55.56%), Preprocessed Fitness = 15.2500   , Performance = 100.00%
+60.  ID = 10,508,417, Fitness = 2.8000    (Iteration: 1000), Runtime = 15.0324, Preprocessed = 7 /36 ( 19.44%), Preprocessed Fitness = 20.4500   , Performance =  86.31%
+61.  ID = 10,527,286, Fitness = 1.2000    (Iteration: 1000), Runtime = 13.1059, Preprocessed = 22/36 ( 61.11%), Preprocessed Fitness = 17.4500   , Performance =  93.12%
+62.  ID = 10,535,581, Fitness = 1.2000    (Iteration: 1000), Runtime = 12.3751, Preprocessed = 25/36 ( 69.44%), Preprocessed Fitness = 9.2000    , Performance =  86.96%
+63.  ID = 10,549,902, Fitness = 2.0500    (Iteration: 1000), Runtime = 13.3537, Preprocessed = 22/36 ( 61.11%), Preprocessed Fitness = 11.4000   , Performance =  82.02%
+64.  ID = 10,552,573, Fitness = 1.2000    (Iteration: 1000), Runtime = 14.0494, Preprocessed = 17/36 ( 47.22%), Preprocessed Fitness = 16.9000   , Performance =  92.90%
+65.  ID = 10,579,331, Fitness = 4.4000    (Iteration: 1000), Runtime = 13.4922, Preprocessed = 17/36 ( 47.22%), Preprocessed Fitness = 17.5000   , Performance =  74.86%
+66.  ID = 10,587,298, Fitness = 4.5500    (Iteration: 1000), Runtime = 14.3060, Preprocessed = 8 /36 ( 22.22%), Preprocessed Fitness = 19.9500   , Performance =  77.19%
+67.  ID = 10,589,578, Fitness = 5.0000    (Iteration: 1000), Runtime = 14.7765, Preprocessed = 10/36 ( 27.78%), Preprocessed Fitness = 20.2000   , Performance =  75.25%
+68.  ID = 10,591,262, Fitness = 4.8000    (Iteration: 1000), Runtime = 13.9413, Preprocessed = 10/36 ( 27.78%), Preprocessed Fitness = 19.0000   , Performance =  74.74%
+69.  ID = 10,598,632, Fitness = 5.0000    (Iteration: 1000), Runtime = 14.3210, Preprocessed = 7 /36 ( 19.44%), Preprocessed Fitness = 19.9500   , Performance =  74.94%
+70.  ID = 10,611,067, Fitness = 3.8000    (Iteration: 1000), Runtime = 14.5516, Preprocessed = 9 /36 ( 25.00%), Preprocessed Fitness = 22.3000   , Performance =  82.96%
+71.  ID = 10,643,789, Fitness = 1.2000    (Iteration: 1000), Runtime = 14.4424, Preprocessed = 10/36 ( 27.78%), Preprocessed Fitness = 18.0000   , Performance =  93.33%
+72.  ID = 10,672,197, Fitness = 1.2000    (Iteration: 1000), Runtime = 13.0327, Preprocessed = 23/36 ( 63.89%), Preprocessed Fitness = 18.2500   , Performance =  93.42%
+73.  ID = 10,683,662, Fitness = 0.0000    (Iteration:   12), Runtime = 0.1368 , Preprocessed = 28/36 ( 77.78%), Preprocessed Fitness = 9.0500    , Performance = 100.00%
+74.  ID = 10,696,087, Fitness = 4.2500    (Iteration: 1000), Runtime = 16.3854, Preprocessed = 6 /36 ( 16.67%), Preprocessed Fitness = 20.7000   , Performance =  79.47%
+75.  ID = 10,701,184, Fitness = 5.3000    (Iteration: 1000), Runtime = 16.0432, Preprocessed = 8 /36 ( 22.22%), Preprocessed Fitness = 20.4500   , Performance =  74.08%
+76.  ID = 10,713,003, Fitness = 0.8000    (Iteration: 1000), Runtime = 13.1349, Preprocessed = 26/36 ( 72.22%), Preprocessed Fitness = 12.6000   , Performance =  93.65%
+77.  ID = 10,754,124, Fitness = 0.0000    (Iteration:    1), Runtime = 0.0108 , Preprocessed = 30/36 ( 83.33%), Preprocessed Fitness = 6.0500    , Performance = 100.00%
+78.  ID = 10,781,445, Fitness = 0.0000    (Iteration:    1), Runtime = 0.0089 , Preprocessed = 36/36 (100.00%), Preprocessed Fitness = 0.0000    , Performance =   0.00%
+79.  ID = 10,795,215, Fitness = 1.2000    (Iteration: 1000), Runtime = 15.3226, Preprocessed = 15/36 ( 41.67%), Preprocessed Fitness = 15.3500   , Performance =  92.18%
+80.  ID = 10,816,466, Fitness = 1.2000    (Iteration: 1000), Runtime = 13.0545, Preprocessed = 17/36 ( 47.22%), Preprocessed Fitness = 17.7000   , Performance =  93.22%
+81.  ID = 10,847,337, Fitness = 4.6500    (Iteration: 1000), Runtime = 13.4958, Preprocessed = 23/36 ( 63.89%), Preprocessed Fitness = 14.5000   , Performance =  67.93%
+82.  ID = 10,875,569, Fitness = 0.8000    (Iteration: 1000), Runtime = 13.7239, Preprocessed = 20/36 ( 55.56%), Preprocessed Fitness = 15.2500   , Performance =  94.75%
+83.  ID = 10,896,847, Fitness = 0.8000    (Iteration: 1000), Runtime = 15.1797, Preprocessed = 10/36 ( 27.78%), Preprocessed Fitness = 19.6000   , Performance =  95.92%
+84.  ID = 10,930,056, Fitness = 0.0000    (Iteration:    5), Runtime = 0.0607 , Preprocessed = 28/36 ( 77.78%), Preprocessed Fitness = 10.9500   , Performance = 100.00%
+85.  ID = 11,043,803, Fitness = 4.5500    (Iteration: 1000), Runtime = 14.5731, Preprocessed = 13/36 ( 36.11%), Preprocessed Fitness = 20.1000   , Performance =  77.36%
+86.  ID = 11,052,019, Fitness = 1.2000    (Iteration: 1000), Runtime = 14.7911, Preprocessed = 8 /36 ( 22.22%), Preprocessed Fitness = 19.5500   , Performance =  93.86%
+87.  ID = 11,122,064, Fitness = 5.9000    (Iteration: 1000), Runtime = 15.7714, Preprocessed = 6 /36 ( 16.67%), Preprocessed Fitness = 20.7000   , Performance =  71.50%
+88.  ID = 11,142,331, Fitness = 0.0000    (Iteration:    1), Runtime = 0.0095 , Preprocessed = 31/36 ( 86.11%), Preprocessed Fitness = 6.8500    , Performance = 100.00%
+89.  ID = 11,156,823, Fitness = 1.2000    (Iteration: 1000), Runtime = 12.7848, Preprocessed = 19/36 ( 52.78%), Preprocessed Fitness = 16.0500   , Performance =  92.52%
+90.  ID = 11,244,092, Fitness = 1.2000    (Iteration: 1000), Runtime = 13.2859, Preprocessed = 15/36 ( 41.67%), Preprocessed Fitness = 17.4500   , Performance =  93.12%
+91.  ID = 11,257,378, Fitness = 6.3500    (Iteration: 1000), Runtime = 14.9405, Preprocessed = 8 /36 ( 22.22%), Preprocessed Fitness = 20.7000   , Performance =  69.32%
+92.  ID = 11,278,191, Fitness = 3.6000    (Iteration: 1000), Runtime = 14.6602, Preprocessed = 5 /36 ( 13.89%), Preprocessed Fitness = 21.2000   , Performance =  83.02%
+93.  ID = 11,289,923, Fitness = 2.4000    (Iteration: 1000), Runtime = 15.2025, Preprocessed = 5 /36 ( 13.89%), Preprocessed Fitness = 20.2000   , Performance =  88.12%
+94.  ID = 11,296,205, Fitness = 1.5500    (Iteration: 1000), Runtime = 14.1559, Preprocessed = 13/36 ( 36.11%), Preprocessed Fitness = 21.3000   , Performance =  92.72%
+95.  ID = 11,296,253, Fitness = 3.2000    (Iteration: 1000), Runtime = 12.6496, Preprocessed = 24/36 ( 66.67%), Preprocessed Fitness = 12.9500   , Performance =  75.29%
+96.  ID = 11,302,380, Fitness = 3.6500    (Iteration: 1000), Runtime = 13.9735, Preprocessed = 14/36 ( 38.89%), Preprocessed Fitness = 18.2500   , Performance =  80.00%
+97.  ID = 11,318,920, Fitness = 1.2000    (Iteration: 1000), Runtime = 13.0997, Preprocessed = 23/36 ( 63.89%), Preprocessed Fitness = 14.0500   , Performance =  91.46%
+98.  ID = 11,365,066, Fitness = 0.0000    (Iteration:   13), Runtime = 0.1534 , Preprocessed = 26/36 ( 72.22%), Preprocessed Fitness = 12.3500   , Performance = 100.00%
+99.  ID = 11,377,936, Fitness = 2.8000    (Iteration: 1000), Runtime = 14.0021, Preprocessed = 12/36 ( 33.33%), Preprocessed Fitness = 18.8500   , Performance =  85.15%
+100. ID = 11,379,952, Fitness = 0.0000    (Iteration:    6), Runtime = 0.0726 , Preprocessed = 27/36 ( 75.00%), Preprocessed Fitness = 12.0500   , Performance = 100.00%
+
+Seed =
+('MT19937', array([ 745559268, 1251100162, 3699168200, 3995811944, 4087601090,
+       1553751837, 2177245368, 3942075474, 2084902441, 4224126580,
+       3634346268, 1907094981,  421216103, 3815392976,  129975960,
+       3118230799,  997604432, 1311099648,  145285706,  752695036,
+       1474275041,  168578283, 1190502320, 3683022663, 1071215703,
+       3447966030, 2453681363, 2326610979,  911285086,  217791511,
+        778027900, 3945297327, 3541296566, 1628723206, 3307028760,
+       2105147317, 2053906146, 2228575916,  145126104, 3932621175,
+       1955593846,  368842034, 1228381613,  755142824, 1339821003,
+       2439715264, 1794848622, 4017821784, 3255085476, 1517716599,
+       4274032494,  905409464, 3565165385, 2081425646, 2008894950,
+       2450521784, 1880289559, 1708676919,  137114823, 3363498609,
+        290479587, 1459015720, 2674805435, 4042790248,  682865135,
+        261751765,  284184561, 4288845080, 3685532131, 2291715548,
+       2938056105, 2903252051, 3678554946,  482673542, 1710177334,
+        820577273, 1568577467,  668634763,  658167576, 1718530189,
+       3520026248, 3436882297, 1291706195, 2785921325, 1020477708,
+       4238316128, 4286157254,   70676515, 2133970599,  257474081,
+       3459811941,  130763592,  271090168, 1763794190, 3436573016,
+       1164688132, 1938434715, 1727955844, 2988619614,  387534079,
+       1234326974, 2047543997,  289602677,  390846078,  357517908,
+        639130567, 1691743382,    1572119, 3996674173, 3904184241,
+       3308207466, 4127890527, 2209569250, 3698039723, 3758899515,
+       1222318638, 1551037475,  573634540, 1542450206, 1381365770,
+       2549395371, 1193534642, 2793570846,  915769283, 2430911401,
+        241868914, 1807845741, 2634720251, 2940035740,  977307254,
+       2592425934, 3376211196, 2576651084, 3960374538, 4020223995,
+       2475495143,  385921069, 3391464436,  507159003, 2803540056,
+        171364153, 2392712405, 3159083246, 2519964375, 1518811138,
+        799938992,   35951201,  751075938,  362600202, 2093210330,
+       3573818718, 1633134281,  339940075, 3226444397,  907114069,
+        195870360, 2411670853, 1471532431,  519365599, 2938469488,
+       1546065868,  978134536,  964447691, 3807385230, 4220194692,
+       3332222715, 3788921633, 2046574491, 3185988378, 3327858364,
+       1057677430,  202804458, 3204682777, 2457792728,  376006575,
+       3168624330, 1854156861, 2596334705, 1069384233, 3633696399,
+       2789166410, 3129736248, 3549267866, 1131023472, 2046419185,
+       2177947242, 2849457834, 2142379880, 3307966973,  490185060,
+        604038564, 2567748723, 1244557968, 1498036707, 1655368414,
+       4182816503,   30304168, 1736512648,  234477908, 3902803691,
+        138856483, 1861310656, 1158951051, 1476510929, 1684525739,
+       1049578292,  876114509, 2729641528, 1885937049, 4063084055,
+       4199436148, 2548226726,  827786667, 3833633732,  353076860,
+        890377182, 1186109627, 1201597989, 1973999813,  299114186,
+          4634175,  511185974, 3261110217, 3064540219, 2920889077,
+        681176251, 3053228395, 3590310098, 3238278498, 1731757911,
+       4213088137, 2343123295, 1307914637, 2629068487,  753486959,
+       1208748288,  944531932, 1766244318, 1900627874,  952969403,
+       3670287999, 4152071932, 2270740432, 2821026272,  890345490,
+       2330954064, 3378105760,  542755865, 2234314197,  893861949,
+       2712069728, 3308153275, 4289753008,  495897266, 4086146093,
+        697081304, 2668905144, 1739213883, 3085457567, 2090689314,
+       1083292532, 3687270526, 2225742985, 2181470822, 1525400101,
+         56873343,  533923213, 3557407106, 3760316500,  836783102,
+       1715909003,  366177580, 4204573829, 1463568667, 1970041104,
+       3285884888,  774106933, 3284065596, 1463364235,  140830399,
+        956371559, 2690049014, 3147193928, 1406230624, 2057076586,
+        529214224,  864724275, 3448622957, 3924631590, 3490850809,
+       1390038771, 3847780818, 3791802559,  304396944, 1718695456,
+       4033589796, 3181317407,  128157443,  905890542, 3414393953,
+       1388182082, 3003882129, 3190647666, 1697550750, 1877203814,
+       2522093674,  428656736, 2756419371,  549498865, 3743285653,
+       2349153199,   77188270, 2718481066, 2161258581, 1273623548,
+       2341145471,  314684972, 2387546701, 2536671155, 3485708325,
+       2953027695, 2741618104, 2245051606, 2821846566,  423657396,
+        730356576, 3050373281, 4192317484, 1328971606, 1761073619,
+       4188162630, 2684538732, 2521248801,  257421568,  127436858,
+        669473155, 2129161092, 3385842556, 3613209341, 2164652089,
+       3434946010, 3860898964, 2481136333, 1501022164, 1782611972,
+       3420422026, 3046858714,  505480076, 3809191540, 3112754711,
+       1687461198, 1219990750, 2314320790, 1348198188, 2935029421,
+       3430834453, 2764821367,  366147254,  507281790, 1944878791,
+       1065447597, 1470652645, 2741367411, 4040130779, 3686970213,
+       2907032084, 1080100635, 2889165393, 3123707315, 1354653128,
+       1443874610, 1430422746, 1800684074,  897195726,  825978798,
+       3964947680, 3458699104, 2946413060, 3434890357, 3952316004,
+       4201755029, 1636242588, 3683788327, 4280097783, 1420641055,
+        726854491,  235328161, 2833438836, 1729169341, 1004690609,
+       1301169590, 3095174584, 4023927659,  906435526, 1022422811,
+        249119565, 1743486588, 3457815365, 3629406691,  334629778,
+       3827521945,  445924555, 3961243494, 1444682660, 3183702378,
+       3944357045,  358012366, 3257812374, 1531718204, 4254346847,
+       3277107900, 2505788310, 2872323059,  812256202, 3498904164,
+       4178561522, 1835119692,  209098917, 2957097149, 2756696734,
+        704797010, 3428333069, 3394479462,  387791787, 1954781763,
+       3439118694, 2466101956, 2816370951, 2710883606,  597868479,
+       1953258395, 3466663128, 4168534045,  152228239, 2272842762,
+       1266983724,  843219209, 3470703115, 2669572718, 3422423614,
+       2028733385, 4111895385, 3099878866, 1208462780,  869453542,
+       1613343202, 3760580598,  731319602, 3228298193, 1000251031,
+       4211151058,  503227959, 2371054983,  233580089,  958185436,
+       1056972669, 2034506421, 1947469766, 3252602457, 4087821463,
+       3806999841, 1535452865, 1843805206, 1998428085, 3457133149,
+       1693522393, 1665351611, 2482598112, 4238117519,  456612903,
+       2796246334, 4011990037, 3229975247,    2479677, 1700940016,
+       2220995218, 2895517627, 2111674569,  471078916, 2534471233,
+       3876686937, 1901703805, 3174109042, 1815473490, 3067723638,
+        826171125, 2099342381,  593225059, 3718691241, 1374543831,
+       1693115209, 3270877310, 1359829227, 3830279209, 1241301046,
+       3888832785, 1142615790, 3555879923, 3828747008,  125694173,
+       1244221688, 3201360899,  726551970, 3296867231, 3905289085,
+       3469925988, 3474933349, 3492236312, 1698363879, 2589997959,
+        695546711, 4077202981, 4180662115,  512029124, 1447480323,
+       3367978567,  328694098, 1468415816, 2230233887, 1678453223,
+       1216361913, 2680732902, 3186974121, 1704206400,  245131043,
+        923582510,  343126022, 2102585320, 2929703909, 2906429530,
+        454389300,  580709441,  145735333,   90028556, 4238158488,
+       2033132281, 3114066060, 1520499978,  575228773, 2875111978,
+       3599249517, 3159088520,  613563218, 3911745285, 2072961106,
+       3128489384,  537452952, 3790013917, 1675969420, 2027711148,
+       3776732430, 2915236662, 2528884956, 2403498251, 3221294726,
+       3869539838,  731543342, 1364014624, 1637846955, 1174868413,
+        435268230, 2326761589, 3419522674, 1828393786, 1250335301,
+       2977101994, 2410503920, 2253667595, 2601164904, 2758732923,
+       3294726279, 2387556989, 3918525310, 1037351415,  653741565,
+       2961620368, 2091283383, 2409598502,  734733601, 3880105078,
+       2992233981, 4214473096,  796773348, 1750798188,  765083995,
+       2544485937, 2919705677,  676635400, 1586498151, 2041787737,
+       2096600923, 3368483003, 3731557747, 4142762408, 1336856659,
+       2650896599,  349315318,  406838710, 1473034406, 1763248650,
+       3603999895, 3203179943,  990080872, 3257493797, 3254013343,
+       2783279205, 3770641670, 2570230956, 3670612020, 3772007942,
+       2225494840, 1215553091, 1587957174, 4132384363, 2827781460,
+       1883610069, 2257603717, 4172449855,  243555383, 1163604783,
+       2151287715, 2992479976,   15720386,  835933198], dtype=uint32), 512, 0, 0.0)
